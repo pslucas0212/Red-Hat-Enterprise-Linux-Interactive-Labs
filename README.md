@@ -23,6 +23,14 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [Install software using package managers (Admin 101)](https://www.redhat.com/en/interactive-labs/install-software-using-package-managers)
 
 #### RHEL Interactive Labs Dev 101
+- [Intro to Git](https://www.redhat.com/en/interactive-labs/intro-git)
+- [Get Started with C/C++ on Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/getting-started-c-language-compilers)
+- [Python Virtual Environments in Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/python-virtual-environments)
+- [Intro to Databases](https://www.redhat.com/en/interactive-labs/intro-to-databases)
+- [Running Containers on Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/running-containers-red-hat-enterprise-linux)
+- [Getting Started with PyTorch](https://www.redhat.com/en/interactive-labs/getting-started-pytorch)
+- [Managing Jupyter Notebooks](https://www.redhat.com/en/interactive-labs/managing-jupyter-notebooks)
+- [Using TensorFlow with Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/using-tensorflow)
 
 #### Red Hat Insights
 - [Resolving issues with Red Hat Insights Advisor](https://www.redhat.com/en/interactive-labs/resolve-issues-red-hat-insights-advisor-functionality)
