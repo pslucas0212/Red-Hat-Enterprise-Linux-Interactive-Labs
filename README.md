@@ -23,6 +23,12 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 
 #### RHEL Interactive Labs Dev 101
 
+#### Red Hat Insights
+- [Resolving issues with Red Hat Insights Advisor](https://www.redhat.com/en/interactive-labs/resolve-issues-red-hat-insights-advisor-functionality)
+- [Remediating vulnerabilities with Red Hat Insights Vulnerability](https://www.redhat.com/en/interactive-labs/remediating-vulnerabilities-with-red-hat-insights)
+- [Use Red Hat Insights with SQL Server](https://www.redhat.com/en/interactive-labs/use-red-hat-insights-sql-server)
+- 
+
 #### Satellite
 - [Red Hat Satellite Basics](https://www.redhat.com/en/satellite-basics-lab)
 
