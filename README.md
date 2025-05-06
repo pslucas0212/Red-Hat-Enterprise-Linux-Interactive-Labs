@@ -33,6 +33,11 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 #### Satellite
 - [Red Hat Satellite Basics](https://www.redhat.com/en/satellite-basics-lab)
 
+#### Updating and Pathcing
+- [Update a Red Hat Enterprise Linux host with the Web Console](https://www.redhat.com/en/interactive-labs/update-red-hat-enterprise-linux-host-web-console)
+- [Introduction to image mode for Red Hat Enterprise Linux - Use image mode to update a RHEL instance](https://www.redhat.com/en/introduction-to-image-mode-for-red-hat-enterprise-linux-interactive-lab)
+- [Reduce unplanned maintenance with Kernel live patching](https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching)
+  
 #### Performance
 - [Using Web Console to Monitor Performance](https://www.redhat.com/en/interactive-labs/use-web-console-monitor-performance)
 - [Performance Co-Pilot on Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/performance-co-pilot-red-hat-enterprise-linux)
