@@ -13,7 +13,7 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [Red Hat interactive labs Home Page](https://www.redhat.com/en/interactive-labs)
 - [Red Hat Interactive Labs - RHEL Only](https://www.redhat.com/en/interactive-labs/enterprise-linux)
 - [Red Hat Interactive Labs - OCP Only](https://www.redhat.com/en/interactive-labs/openshift)
-- [Red Hat Interactive Labs - AAP Only}(https://www.redhat.com/en/interactive-labs/ansible)
+- [Red Hat Interactive Labs - AAP Only](https://www.redhat.com/en/interactive-labs/ansible)
   
 #### RHEL Interactive Labs Admin 101
 - [Helpful Linux commands (Admin 101](https://www.redhat.com/en/interactive-labs/helpful-linux-commands)
