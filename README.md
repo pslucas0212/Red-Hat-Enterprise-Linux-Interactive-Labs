@@ -52,3 +52,17 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [In Place Upgrade to RHEL 8 with LEAPP](https://www.redhat.com/en/interactive-labs/perform-in-place-upgrade-with-leapp)
 - [Migrate to Red Hat Enterprise Linux from CentOS Linux](https://www.redhat.com/en/interactive-labs/migrate-red-hat-enterprise-linux-centos-linux)
 
+#### Podman
+- Deploying containers using Container Tools [podman]](https://www.redhat.com/en/interactive-labs/deploy-containers-podman-container-tools)
+- [Create and Manage Podman Pods](https://www.redhat.com/en/interactive-labs/create-and-manage-podman-pods)
+- [Configure a rootless Podman service](https://www.redhat.com/en/configure-a-rootless-podman-service)
+
+#### Image Builder and Image Mode
+- [Using Web Console to build virtual machine images [Image Builder]](https://www.redhat.com/en/interactive-labs/build-machine-images-web-console-image-builder)
+- [Design and build virtual machine images using commandline tools [Image Builder]](https://www.redhat.com/en/interactive-labs/build-machine-images-command-line-tools-image-builder)
+- [Building custom images with the Image Builder Service](https://www.redhat.com/en/build-custom-images-red-hat-image-builder)
+- [Introduction to image mode for Red Hat Enterprise Linux](https://www.redhat.com/en/introduction-to-image-mode-for-red-hat-enterprise-linux-interactive-lab)
+- [Day 2 operations with image mode for Red Hat Enterprise Linux](https://www.redhat.com/en/day-2-operations-with-image-mode-for-red-hat-enterprise-linux)
+
+
+
