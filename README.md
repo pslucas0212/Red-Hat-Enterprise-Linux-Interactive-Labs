@@ -33,6 +33,11 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 #### Satellite
 - [Red Hat Satellite Basics](https://www.redhat.com/en/satellite-basics-lab)
 
+#### Subscription
+- [Subscription management basics](https://www.redhat.com/en/red-hat-enterprise-linux-subscription-management-basics-interactive-lab)
+- [The remote host configuration tool, rhc](https://www.redhat.com/en/interactive-labs/the-remote-host-configuration-tool-rhc)
+
+
 #### Updating and Pathcing
 - [Update a Red Hat Enterprise Linux host with the Web Console](https://www.redhat.com/en/interactive-labs/update-red-hat-enterprise-linux-host-web-console)
 - [Introduction to image mode for Red Hat Enterprise Linux - Use image mode to update a RHEL instance](https://www.redhat.com/en/introduction-to-image-mode-for-red-hat-enterprise-linux-interactive-lab)
