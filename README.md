@@ -7,7 +7,7 @@
 - [Red Hat Enterprise Linux - Upgrade or Convert](https://github.com/pslucas0212/RHEL-Upgrade-Convert-Useful-links/)
 
 ### Interactive Labs
-Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux, Red Hat Ansible Automation Platform, Red Hat OpenShift Cloud Platform.  I've organized a few of the RHEL interactive into specific categories for easier navigation.
+Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux, Red Hat Ansible Automation Platform, Red Hat OpenShift Cloud Platform.  I've organized a few of the RHEL interactive into specific categories for easier navigation.  Many of the labs run less than 15 minutes, so when you need an educational break, work through a quick lab and builid your skills.
 
 - [Red Hat interactive labs Home Page](https://www.redhat.com/en/interactive-labs)
 - [Red Hat Interactive Labs - RHEL Only](https://www.redhat.com/en/interactive-labs/enterprise-linux)
@@ -35,7 +35,7 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 #### Performance
 - [Using Web Console to Monitor Performance](https://www.redhat.com/en/interactive-labs/use-web-console-monitor-performance)
 - [Performance Co-Pilot on Red Hat Enterprise Linux](https://www.redhat.com/en/interactive-labs/performance-co-pilot-red-hat-enterprise-linux)
-- [Visualize performance on your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role[(https://www.redhat.com/en/interactive-labs/visualize-performance-red-hat-enterprise-linux-infrastructure)
+- [Visualize performance on your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role][(https://www.redhat.com/en/interactive-labs/visualize-performance-red-hat-enterprise-linux-infrastructure)
 - [Optimizing performance with TuneD profiles](https://www.redhat.com/en/interactive-labs/optimize-performance-with-tuned-profiles)
 - [Performance observability in practice with bcc tools](https://www.redhat.com/en/interactive-labs/performance-observability-in-practice-bcc-tools)
 - [Red Hat Enterprise Linux with SQL Server Columnstores](https://www.redhat.com/en/interactive-labs/red-hat-enterprise-linux-sql-server-columnstores)
