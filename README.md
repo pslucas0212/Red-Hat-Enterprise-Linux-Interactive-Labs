@@ -40,4 +40,10 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [Performance observability in practice with bcc tools](https://www.redhat.com/en/interactive-labs/performance-observability-in-practice-bcc-tools)
 - [Red Hat Enterprise Linux with SQL Server Columnstores](https://www.redhat.com/en/interactive-labs/red-hat-enterprise-linux-sql-server-columnstores)
 
+#### RHEL System Roles
+- [Build a Standard Operating Environment with RHEL System Roles](https://www.redhat.com/en/interactive-labs/build-standard-operating-environment-system-roles)
+- [Configure firewalls with RHEL System Roles](https://www.redhat.com/en/interactive-labs/configure-firewalls-red-hat-enterprise-linux-system-roles)
+- [Visualize performance on your Red Hat Enterprise Linux Infrastructure with RHEL System Roles Metrics role](https://www.redhat.com/en/interactive-labs/visualize-performance-red-hat-enterprise-linux-infrastructure)
+- [Installing and configuring Microsoft SQL Server on Red Hat Enterprise Linux using RHEL System Roles](https://www.redhat.com/en/interactive-labs/use-system-roles-install-microsoft-sql-server)
+
 
