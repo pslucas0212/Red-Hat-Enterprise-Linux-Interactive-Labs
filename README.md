@@ -48,7 +48,7 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [Installing and configuring Microsoft SQL Server on Red Hat Enterprise Linux using RHEL System Roles](https://www.redhat.com/en/interactive-labs/use-system-roles-install-microsoft-sql-server)
 
 #### RHEL Upgrades
-- [Upgrade to Red Hat Enterprise Linux 9 in place with Leapp}(https://www.redhat.com/en/interactive-labs/upgrade-with-leapp)
+- [Upgrade to Red Hat Enterprise Linux 9 in place with Leapp](https://www.redhat.com/en/interactive-labs/upgrade-with-leapp)
 - [In Place Upgrade to RHEL 8 with LEAPP](https://www.redhat.com/en/interactive-labs/perform-in-place-upgrade-with-leapp)
 - [Migrate to Red Hat Enterprise Linux from CentOS Linux](https://www.redhat.com/en/interactive-labs/migrate-red-hat-enterprise-linux-centos-linux)
 
