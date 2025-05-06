@@ -71,7 +71,7 @@ Red Hat provides a set of hands-on interactive labs for Red Hat Enterprise Linux
 - [Migrate to Red Hat Enterprise Linux from CentOS Linux](https://www.redhat.com/en/interactive-labs/migrate-red-hat-enterprise-linux-centos-linux)
 
 #### Podman
-- Deploying containers using Container Tools [podman]](https://www.redhat.com/en/interactive-labs/deploy-containers-podman-container-tools)
+- [Deploying containers using Container Tools [podman]](https://www.redhat.com/en/interactive-labs/deploy-containers-podman-container-tools)
 - [Create and Manage Podman Pods](https://www.redhat.com/en/interactive-labs/create-and-manage-podman-pods)
 - [Configure a rootless Podman service](https://www.redhat.com/en/configure-a-rootless-podman-service)
 
